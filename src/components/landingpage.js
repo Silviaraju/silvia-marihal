@@ -10,8 +10,7 @@ class Landing extends Component {
           <Cell col={12}>
             <center>
             <img
-              src="/assets/images/Silvia 3.png"
-              alt="avatar"
+              src="/assets/images/Silvia 3.jpg"
               className="avatar-img"
               style={{height: '660px'}}
               />

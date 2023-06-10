@@ -16,7 +16,7 @@ class Projects extends Component {
 
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/backgroung1.png) center / cover'}} >PORTFOLIO</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/backgroung1.jpg) center / cover'}} >PORTFOLIO</CardTitle>
             <CardText>
               ReactJS based portfolio website built by breaking the Ceevee template by Styleshout and 
               breaking up their template into isolated React components. Data was fed directly from a JSON File. 
@@ -30,7 +30,7 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background2.png) center / cover'}} >USER MANIPULATION FORM</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background2.jpg) center / cover'}} >USER MANIPULATION FORM</CardTitle>
             <CardText>
               ReactJS based user form to perform some manipulation like adding, editing and deleting the users.
               Backend is written using Java and maven.
@@ -48,7 +48,7 @@ class Projects extends Component {
 
           {/* Project 3 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background.png) center / cover'}} >REACTIVE SPRING PROGRAMMING</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background.jpg) center / cover'}} >REACTIVE SPRING PROGRAMMING</CardTitle>
             <CardText>
             Reactive application that supports asynchronous, non-blocking, and event-driven applications easily scalable for an employee database.  
             The application can retrieve a particular database based on employee id.
@@ -70,7 +70,7 @@ class Projects extends Component {
 
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background 3.png) center / cover'}} >CAROUSEL</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background 3.jpg) center / cover'}} >CAROUSEL</CardTitle>
             <CardText>
             This is a simple responsive Carousel loading images page from a third-party site and generates thumbnails automatically. 
             I have used React Responsive Carousel package which needs to be first installed and 
@@ -85,7 +85,7 @@ class Projects extends Component {
 
           {/* Project 2 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background4.png) center / cover'}} >VOTING SYSTEM</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background4.jpg) center / cover'}} >VOTING SYSTEM</CardTitle>
             <CardText>
             This is a simple vote calculator example which increments count on every click. 
             I introduce the Stateful Component, which are defined using a class and make it easier to keep track of the application state provided component. 
@@ -100,7 +100,7 @@ class Projects extends Component {
 
           {/* Project 3 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background.png) center / cover'}} >CALCULATOR</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background.jpg) center / cover'}} >CALCULATOR</CardTitle>
             <CardText>
             This is a simple Calculator example. I introduce the Stateful Component,
             which are defined using a class and make it easier to keep track of the application state provided component. 
@@ -117,7 +117,7 @@ class Projects extends Component {
         <div className="projects-grid">
            {/* Project 1 */}
            <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background3.png) center / cover'}} >SMART MOBILE BASED EMERGENCY MANAGEMENT SYSTEM</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/background3.jpg) center / cover'}} >SMART MOBILE BASED EMERGENCY MANAGEMENT SYSTEM</CardTitle>
             <CardText>
             Smart mobile-based application to deliver push alerts during an emergency.
             This is a real-time emergency management and notiﬁcation system using mobile applications 
@@ -135,7 +135,7 @@ class Projects extends Component {
         <div>
           {/* Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/robotics.png) center / cover'}} >VISION GUIDED GRASPING</CardTitle>
+            <CardTitle style={{color: '#fff', height: '176px', background: 'url(/assets/images/robotics.jpg) center / cover'}} >VISION GUIDED GRASPING</CardTitle>
             <CardText>
             Computer vision is often required to provide data for the grasping of a target. 
             Here, I present an integrated vision-guided grasping system for service robots. 
