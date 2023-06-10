@@ -170,11 +170,6 @@ class Resume extends Component {
                 progress={70}
               />
 
-              <Skills
-                skill="VIRTUAL MACHINE INFRASTRUCTURE"
-                progress={99}
-              />
-
           </Cell>
         </Grid>
       </div>
