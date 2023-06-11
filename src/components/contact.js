@@ -9,14 +9,13 @@ class Contact extends Component {
         <Grid className="contact-grid">
           <Cell col={6}>
             <h2>Silvia Raju Marihal</h2>
-            <img
-              src="/assets/images/Silvia 2.png"
-              alt="avatar"
-              style={{height: '250px'}}
-               />
+
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>
-              I  enjoy working with dedicated creatives from businesses and tech industry that make the world beautiful.We can do so much together. 
-             </p>
+             
+I find immense joy in collaborating with dedicated creatives from businesses and the tech industry, united by a shared passion for making the world a more beautiful place. 
+Let's embark on this journey together, where our collective efforts will shape a future that surpasses all expectations. 
+Together, we can achieve greatness and create a world that is not only visually stunning but also filled with transformative solutions that enhance the lives of many.
+ </p>
 
           </Cell>
           <Cell col={6}>

@@ -22,8 +22,6 @@ class About extends Component {
        You can find the published article, "Season of Innovators - Winter Interns," at the following link: <a href="https://www.ringcentral.com/us/en/blog/season-of-innovation-winter-interns/" style={{ color: 'blue' }}> Season of Innovators - Winter Interns</a>
        </h2>
 
-    <img src="/assets/images/Silvia2.jpg" style={{height:'450px', width:'610px'}} />
-
        <h2 className='landing-grid'>
        I embrace my multifaceted journey, merging technology, creativity, and experiential learning to make a meaningful impact on the world around me. Beyond my technical expertise, I believe in the power of collaboration and effective communication. 
        I am eager to contribute to a team that values open dialogue and fosters a supportive work culture. 
